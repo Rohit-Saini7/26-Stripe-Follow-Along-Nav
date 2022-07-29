@@ -4,7 +4,7 @@ Date: July 29, 2022
 
 # TwentySisth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/26-Stripe-Follow-Along-Nav/).
+Follow along tooltip for navbar. To experience on your own visit [here](https://rohit-saini7.github.io/26-Stripe-Follow-Along-Nav/).
 
 ## What is JavaScript 30
 
@@ -14,4 +14,4 @@ Learn more about the course in [here](https://javascript30.com/).
 
 ## Screenshot
 
-![Screendhot-1](./assets/screenshot.png)
+![Screendhot](./assets/screenshot.png)
